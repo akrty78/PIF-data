@@ -1,5 +1,5 @@
 {
   "basic": true,
   "device": true,
-  "strong": true
+  "strong": false
 }
